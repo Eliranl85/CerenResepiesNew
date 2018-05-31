@@ -4,7 +4,7 @@ import java.util.List;
 
 public class RecipesTopics {
 
-    private List<Recipe> recipes;
+    //private List<Recipe> recipes;
     private String name;
 
     public String getName() {
